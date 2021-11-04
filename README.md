@@ -62,7 +62,7 @@
 <p> maka hasil run akan seperti berikut <p>
 
 ![gambar 12](ss/ss14.png)
-<p> input nilai jari jari makan akan menghasilkan output luas dan keliling lingkaran<p>
+<p> input nilai jari jari maka akan menghasilkan output luas dan keliling lingkaran<p>
 <p>flowchartnya seperti berikut<p>
 
 ![gambar 14](ss/fc.png)
