@@ -50,23 +50,22 @@
 <p> maka hasil run akan seperti berkut <p>
 
 ![gambar 10](ss/ss10.png)
-<p>input nilai a dan b maka akan menghasilkan output penjumlhan dan pembagian<p>
+<p>input nilai a dan b maka akan menghasilkan output penjumlahan dan pembagian<p>
 <p>flowchartnya seperti berikut<p>
 
 ![gambar 13](ss/fc2.png)
 
 <h2> Program menghitung luas dan keliling lingkaran<h2>
-<p> misal script program seperti berikut dan menambahkan rumus <p>
+<p> buat program dengan menggunakan rumus luas dan keliling lingkaran seperti berikut <p>
 
-![gambar 11](ss/ss11.png)
+![gambar 11](ss/ss13.png)
 <p> maka hasil run akan seperti berikut <p>
 
-![gambar 12](ss/ss12.png)
+![gambar 12](ss/ss14.png)
 <p> input nilai jari jari makan akan menghasilkan output luas dan keliling lingkaran<p>
-<p>flowchartnya seperti berikut<p
+<p>flowchartnya seperti berikut<p>
 
 ![gambar 14](ss/fc.png)
 
 <p>Terimakasih <p>
 
-# praktikum2
