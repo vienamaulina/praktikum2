@@ -1,8 +1,11 @@
 print("Menghitung Luas dan Keliling Lingkaran")
+r = int(input("masukan jari jari lingkaran : "))
+phi = 22/7
+L = phi*(r*r)
+K = 2*phi*r
 
-pi = 22/7
-r=int(input("masukan jari jari : "))
-print("Luas lingkaran adalah = ",pi*r*r,"cm")
-print("Keliling lingkaran adalah = ",2*pi*r,"cm")
+print("Luas lingkaran dengan jari-jari {} adalah {} ".format(r,L), "cm")
+print("Keliling lingkaran dengan jari-jari {} adalah {}  ".format(r,K), "cm")
+
 
 
