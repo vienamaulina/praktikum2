@@ -58,7 +58,7 @@
 <h2> Program menghitung luas dan keliling lingkaran<h2>
 <p> buat program dengan menggunakan rumus luas dan keliling lingkaran seperti berikut <p>
 
-![gambar 11](ss/ss13.png)
+![gambar 11](ss/ss15.png)
 <p> maka hasil run akan seperti berikut <p>
 
 ![gambar 12](ss/ss14.png)
